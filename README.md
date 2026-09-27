@@ -1,37 +1,49 @@
-# 👋 Hi, I'm Prathvi Naik
+<div align="center">
 
-### BCA Graduate | Python Developer | SQL | Power BI | Data Analytics
+# 👋 Hey, I'm Prathvi Naik
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Prathvi%20Naik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+### 💻 BCA Graduate • Python Developer • Data Analytics Enthusiast
+
+<p>
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Skills</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-learning">Learning</a> •
+  <a href="#-connect">Connect</a>
 </p>
 
-<p align="center">
-  <b>Building • Learning • Analyzing • Improving</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Developer;SQL+%7C+Power+BI+%7C+Data+Analytics;Software+Development+Enthusiast;AI+%26+Cybersecurity+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **BCA graduate** with an interest in software development,
-data analytics, cybersecurity, and technology.
+```python
+class Prathvi:
 
-I enjoy building practical projects, solving programming problems,
-working with databases, and creating data-driven solutions.
+    name = "Prathvi Naik"
+    education = "BCA Graduate"
 
-- 🎓 BCA Graduate
-- 🐍 Interested in Python Development
-- 🗄️ Practicing SQL & Database Management
-- 📊 Learning Data Analytics & Power BI
-- 📈 Exploring Excel & Data Visualization
-- 🔐 Interested in AI & Cybersecurity
-- 🌐 Exploring Web Development
-- 🚀 Building practical projects
-- 🎯 Looking for opportunities to start my professional career
+    interests = [
+        "Python",
+        "SQL",
+        "Data Analytics",
+        "Power BI",
+        "Software Development",
+        "AI / Machine Learning",
+        "Cybersecurity"
+    ]
 
----
+    currently_learning = [
+        "Advanced SQL",
+        "Power BI",
+        "Data Analytics",
+        "Python Projects"
+    ]
 
+    goal = "Build useful software and data-driven solutions"
 # 🛠️ Technical Skills
 
 ### 💻 Programming Languages
