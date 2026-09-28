@@ -50,6 +50,6 @@
 │  > Building projects 🚀                                      │
 │                                                              │
 │  $ mission                                                    │
-│  > Learn • Build • Solve • Improve                            │
+│  > Learn • Build • Solve • Improve                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
